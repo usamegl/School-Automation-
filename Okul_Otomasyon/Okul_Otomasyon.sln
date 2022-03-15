@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okul_Otomasyon", "Okul_Otomasyon\Okul_Otomasyon.csproj", "{EA658835-43DE-4324-B24D-7C4E3DE9DA98}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Okul Otomasyon Setup", "Okul Otomasyon Setup\Okul Otomasyon Setup.vdproj", "{492CB2B3-9C64-4D81-BB9A-7D63501BE7A4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OkulOtomasyonSetup", "OkulOtomasyonSetup\OkulOtomasyonSetup.vdproj", "{9E45FFA4-AEB3-4A78-9BE1-3D2F5AC8D4E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA658835-43DE-4324-B24D-7C4E3DE9DA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA658835-43DE-4324-B24D-7C4E3DE9DA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA658835-43DE-4324-B24D-7C4E3DE9DA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA658835-43DE-4324-B24D-7C4E3DE9DA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492CB2B3-9C64-4D81-BB9A-7D63501BE7A4}.Debug|Any CPU.ActiveCfg = Debug
+		{492CB2B3-9C64-4D81-BB9A-7D63501BE7A4}.Release|Any CPU.ActiveCfg = Release
+		{9E45FFA4-AEB3-4A78-9BE1-3D2F5AC8D4E1}.Debug|Any CPU.ActiveCfg = Debug
+		{9E45FFA4-AEB3-4A78-9BE1-3D2F5AC8D4E1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06CA2F12-1308-4DC5-BF5E-DCB2EF336ABD}
+	EndGlobalSection
+EndGlobal

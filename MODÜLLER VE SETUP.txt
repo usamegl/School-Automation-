@@ -1,0 +1,22 @@
+-MODÜLLER-
+1-ANASAYFA
+2-ÖĞRETMENLER
+3-ÖĞRENCİLER
+4-VELİLER
+5-NOT GİRİŞ
+6-KARNELER
+7-İSTATİSTİKLER
+8-DAVRANIŞLAR
+9-REHBER
+10-GİDERLER
+11-KASA
+12-RAPORLAR
+13-NOTLAR
+14-AYARLAR
+15-WEB SAYFA
+
+Setup 'u çalıştırınız
+next diyerek yüklenmesini istediğiniz klasörü seçiniz ve sonra next diyerek son aşamaya gelerek close ye basıp setup kurulumunu bitiriyoruz.
+sisteme giriş için 
+kullanıcı(admin)=18485458566
+pw =12345
